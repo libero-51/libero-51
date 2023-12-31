@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @libero-51
+- 👋 Hi, I’m @libero-51 I like Charles Darwin...
 - 👀 I’m interested in ... too many things
 - 🌱 I’m currently learning Babylon JS
-- 💞️ I’m looking to collaborate on ... with my old age
+- 💞️ I’m looking to collaborate ... with my old age
 - 📫 How to reach me ...
 
 <!---
